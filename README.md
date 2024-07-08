@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 
   </br>
   - 📫 Comment me contacter :
-    - Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://sowibra24.github.io/portfolio/)
-    - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-sow-4788562b3/)
+  - Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://sowibra24.github.io/portfolio/)
+  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-sow-4788562b3/)
+
   ### Vues du profil :
   ![](https://komarev.com/ghpvc/?username=SowIbra24&label=PROFILE+VIEWS)
 
