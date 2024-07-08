@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <h1>Bonjour, je suis Ibrahima Sow 👋</h1>
     </div>
 
-  <p style="text-align: justify;">
+  <p align="center">
   Étudiant en troisième année d'informatique à l'université Claude Bernard Lyon 1, je suis passionné et curieux du domaine, particulièrement de la programmation et des réseaux. </br> J'ai déjà acquis des bases solides en programmation en C/C++ ainsi que dans d'autres langages. À la rentrée, je débuterai une spécialisation en réseaux. Je suis aussi très intéressé par le domaine de la cybersécurité et tout ce qui est systèmes et réseaux.
   </p>
 
