@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   💻 Je travaille sur des projets de developpement web pour apprendre le javascript</br>
 
   - 💬 Posez-moi des questions sur ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Logo HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) ![Logo CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Logo Terminal](https://img.icons8.com/color/96/000000/console.png) 
+  ![Logo HTML5](https://img.icons8.com/ios-filled/50/000000/html-5.png) ![Logo CSS3](https://img.icons8.com/ios-filled/50/000000/css3.png) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Logo Terminal](https://img.icons8.com/color/96/000000/console.png) 
   </br>
   - 📫 Comment me contacter :
   - Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://sowibra24.github.io/portfolio/)
