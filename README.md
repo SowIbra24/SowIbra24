@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+<!--## Salut à tous 👋, je suis Ibrahima Sow
 **SowIbra24/SowIbra24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <h1>Bonjour, je suis Ibrahima Sow 👋</h1>
+</div>
