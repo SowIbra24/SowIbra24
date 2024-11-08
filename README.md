@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SowIbra24&layout=pie&langs_count=10&card_width=320&theme=dark" alt="SowIbra24" />
   </a>
   <a href="https://github.com/SowIbra24">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24" alt="SowIbra24" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24&theme=dark" alt="SowIbra24" />
   </a>
 
 
