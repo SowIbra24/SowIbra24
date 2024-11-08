@@ -58,13 +58,13 @@ Here are some ideas to get you started:
 
   ### 📊 Statistiques GitHub :
   <a href="https://github.com/SowIbra24">
-    <img height=300 align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=SowIbra24&show_icons=true&locale=en&count_private=true&theme=dark" alt="SowIbra24" />
+    <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=SowIbra24&show_icons=true&locale=en&count_private=true&theme=dark" alt="SowIbra24" />
   </a> 
   <a href="https://github.com/SowIbra24">
-    <img height=300 align="center" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=SowIbra24&layout=pie&langs_count=10&card_width=320&theme=dark" alt="SowIbra24" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SowIbra24&layout=pie&langs_count=10&card_width=320&theme=dark" alt="SowIbra24" />
   </a>
   <a href="https://github.com/SowIbra24">
-    <img height="200" margin="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24&theme=dark" alt="SowIbra24" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24&theme=dark" alt="SowIbra24" />
   </a>
 
 
