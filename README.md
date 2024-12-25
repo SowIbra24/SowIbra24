@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
   ### 📊 GitHub Stats:
 <a href="https://github.com/SowIbra24">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SowIbra24&show_icons=true&locale=en&count_private=true&theme=dark" alt="SowIbra24" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SowIbra24&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="SowIbra24" />
 </a>
 <a href="https://github.com/SowIbra24">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SowIbra24&layout=compact&langs_count=10&card_width=320&theme=dark" alt="SowIbra24" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SowIbra24&layout=compact&langs_count=10&card_width=320&theme=tokyonight" alt="SowIbra24" />
 </a>
 <a href="https://github.com/SowIbra24">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24&theme=tokyonight" alt="SowIbra24" />
