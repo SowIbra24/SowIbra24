@@ -1,73 +1,63 @@
-<!--## Salut à tous 👋, je suis Ibrahima Sow
-**SowIbra24/SowIbra24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ibrahima Sow | DevOps & SRE Enthusiast
+### Construire des systèmes résilients, un pipeline à la fois.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SowIbra24&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="SowIbra24" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+## À propos
+Actuellement en **Master 1 Informatique (Systèmes, Réseaux et Sécurité)** à l'Université Claude Bernard Lyon 1, j'ai choisi de spécialiser mon parcours vers la culture **DevOps** et l'ingénierie de fiabilité (**SRE**). 
 
-<body>
+Pourquoi ? Parce que je suis fasciné par l'intersection entre le développement et l'infrastructure. Pour moi, un bon code n'a de valeur que s'il tourne sur une infrastructure stable, scalable et, surtout, **entièrement monitorée**.
 
-  <div align="center">
-  <h1>Bonjour, je suis Ibrahima Sow 👋</h1>
-    </div>
+Mon quotidien se partage entre mon alternance d'**Administrateur Système** et mon "Homelab" personnel où j'expérimente les technos Cloud Native. Je ne me contente pas de déployer des services : je cherche à comprendre comment ils échouent pour mieux les surveiller avec la stack **Prometheus/Grafana**.
 
-  <p style="text-align: justify;">
-  Étudiant en troisième année d'informatique à l'université Claude Bernard Lyon 1, je suis passionné et curieux du domaine, particulièrement de la programmation et des réseaux. </br> J'ai déjà acquis des bases solides en programmation en C/C++ ainsi que dans d'autres langages. À la rentrée, je débuterai une spécialisation en réseaux. Je suis aussi très intéressé par le domaine de la cybersécurité et tout ce qui est systèmes et réseaux.
-  </p>
+---
 
-  <p> Mon ambition est de devenir un expert en cybersécurité pour contribuer activement à la protection des systèmes d'information dans notre société moderne et pour évoluer dans le monde dynamique et en constante évolution du numérique. 
-  </br> Pour l'instant je me concentre d'abord sur les acquisitions des compétences nécéssaires pour atteindre mon projet 🙂 </p>
+## Ce sur quoi je travaille
+- **Observabilité avancée :** Mise en place de dashboards Grafana complexes avec agrégation de logs via Loki et métriques Prometheus.
+- **Automatisation CI/CD :** Optimisation de pipelines GitLab CI et GitHub Actions pour automatiser les tests et le déploiement de micro-services.
+- **Orchestration :** Migration progressive de mes projets conteneurisés de Docker Compose vers Kubernetes pour maîtriser la haute disponibilité.
+- **Sécurité (PSSI) :** Application des bonnes pratiques de durcissement (hardening) système et réseau.
 
-  <p>
-  N'hésitez pas à me poser des questions en C/C++, HTML/CSS, MySQL, etc. Je serai ravi de répondre à toutes les questions auxquelles je pourrai répondre. Je suis engagé et ouvert à toutes les opportunités dans le domaine du numérique.
-  </p>
+---
 
-  <p>
-  Entrons en contact pour échanger et collaborer sur des idées qui pourraient contribuer à faire avancer le domaine 🤝
-  </p>
+## 🛠️ Stack Technique & Outils
 
-  ## 💡 À propos de moi :
-  💻 Je travaille sur des projets de developpement web pour apprendre le javascript et je suis passionné des réseaux et de la cybersécurité</br>
-
-  - 💬 Posez-moi des questions sur [![Logo HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Logo JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat&logo=gnu-bash&logoColor=white) ![Networking](https://img.shields.io/badge/-Networking-0078D7?style=flat&logo=ethernet&logoColor=white)
+| Domaine | Technologies |
+| :--- | :--- |
+| **Développement** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Automatisation** | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Cloud & Orchestration** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![OpenStack](https://img.shields.io/badge/-OpenStack-f01742?style=flat-square&logo=openstack&logoColor=white) |
+| **Observabilité SRE** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 
 
 
- 
-  - 📫 Comment me contacter :
-    - Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://sowibra24.github.io/portfolio/)
-    - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-sow-4788562b3/)
-
-  ### Vues du profil :
-  ![](https://komarev.com/ghpvc/?username=SowIbra24&label=PROFILE+VIEWS)
-
-  ### 📊 GitHub Stats:
-<a href="https://github.com/SowIbra24">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SowIbra24&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="SowIbra24" />
-</a>
-<a href="https://github.com/SowIbra24">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SowIbra24&layout=compact&langs_count=10&card_width=320&theme=tokyonight" alt="SowIbra24" />
-</a>
-<a href="https://github.com/SowIbra24">
-  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=SowIbra24&theme=tokyonight" alt="SowIbra24" />
-</a>
 
 
-</body>
-</html>
+---
+
+## 📊 Statistiques GitHub (Live)
+
+<p align="center">
+  <img height="180" src="https://stats.justin0u0.com/api?username=SowIbra24&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  
+  <img height="180" src="https://stats.justin0u0.com/api/top-langs?username=SowIbra24&layout=compact&theme=tokyonight&hide=html,css,php" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+##  Connectons-nous !
+Je suis toujours ouvert aux échanges techniques sur l'IA, le Cloud Souverain ou la Cybersécurité.
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahima_Sow-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ibrahima-sow-4788562b3/)
+- [![Email](https://img.shields.io/badge/Email-ibrahima.sow0608%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ibrahima.sow0608@gmail.com)
+---
+<p align="center">
+  <i>"In code we trust, in logs we verify."</i>
+</p>
