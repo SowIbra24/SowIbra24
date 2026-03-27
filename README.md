@@ -61,6 +61,10 @@ Mon quotidien se partage entre mon alternance d'**Administrateur Système** et m
   <img src="https://trophy.ryglcloud.net/?username=SowIbra24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sowibra24's GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/github-contribution-graph?username=SowIbra24&theme=tokyonight&border_radius=10" alt="SowIbra24's Contribution Graph" width="100%" />
+</p>
+
 
 ---
 
