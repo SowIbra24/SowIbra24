@@ -74,6 +74,11 @@ Je suis toujours ouvert aux échanges techniques sur l'IA, le Cloud Souverain ou
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahima_Sow-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ibrahima-sow-4788562b3/)
 - [![Email](https://img.shields.io/badge/Email-ibrahima.sow0608%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ibrahima.sow0608@gmail.com)
 ---
+
+p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+---
 <p align="center">
   <i>"In code we trust, in logs we verify."</i>
 </p>
