@@ -62,7 +62,7 @@ Mon quotidien se partage entre mon alternance d'**Administrateur Système** et m
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SowIbra24&theme=tokyonight&radius=10" alt="SowIbra24's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
