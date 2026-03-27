@@ -40,7 +40,7 @@ Mon quotidien se partage entre mon alternance d'**Administrateur Système** et m
 ---
 
 ## 📊 Statistiques GitHub (Live)
-
+<!--
 <p align="center">
   <img height="180" src="https://stats.justin0u0.com/api?username=SowIbra24&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   
@@ -49,18 +49,18 @@ Mon quotidien se partage entre mon alternance d'**Administrateur Système** et m
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SowIbra24&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/SowIbra24">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SowIbra24&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="SowIbra24's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SowIbra24&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="SowIbra24's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=SowIbra24&theme=dracula&hide_border=true&cache_seconds=86400" alt="SowIbra24's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SowIbra24&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="SowIbra24's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=SowIbra24&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sowibra24's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=SowIbra24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sowibra24's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SowIbra24&theme=dracula&radius=10" alt="SowIbra24's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SowIbra24&theme=tokyonight&radius=10" alt="SowIbra24's Activity Graph" />
 </p>
 
 ---
