@@ -62,7 +62,7 @@ Mon quotidien se partage entre mon alternance d'**Administrateur Système** et m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/github-contribution-graph?username=SowIbra24&theme=tokyonight&border_radius=10" alt="SowIbra24's Contribution Graph" width="100%" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SowIbra24&theme=tokyonight&radius=10" alt="SowIbra24's Activity Graph" />
 </p>
 
 
@@ -75,7 +75,7 @@ Je suis toujours ouvert aux échanges techniques sur l'IA, le Cloud Souverain ou
 - [![Email](https://img.shields.io/badge/Email-ibrahima.sow0608%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ibrahima.sow0608@gmail.com)
 ---
 
-p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 ---
